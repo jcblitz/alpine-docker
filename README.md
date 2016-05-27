@@ -1,0 +1,1 @@
+A POC using Alpine linux to build a rails docker container
